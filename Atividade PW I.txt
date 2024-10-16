@@ -1,0 +1,8 @@
+Atividade avaliativa - Prazo para terminar 04/09/2024
+
+Criem uma página utilizando os seguintes elementos do Bootstrap:
+1.	Menu Navbar (Component)
+2.	3 Columns (Layout)
+3.	1 Card (Component) em cada Column
+4.	1 imagem em cada Card
+5.	1 Carousel (Component) com 3 imagens
